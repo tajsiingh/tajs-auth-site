@@ -1,0 +1,11 @@
+{
+  "name": "tajs-auth-site",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Public OAuth information pages for Taj's self-hosted services",
+  "type": "module",
+  "scripts": {
+    "start": "node server.mjs"
+  },
+  "engines": {"node": ">=20"}
+}
